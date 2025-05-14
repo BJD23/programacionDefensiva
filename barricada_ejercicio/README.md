@@ -43,3 +43,4 @@ Aplicar el concepto de **barricada en programación defensiva** para validar ent
 ---
 
 ## 💡 Ejemplo de ejecución exitosa
+<img width="421" alt="Screenshot 2025-05-14 at 9 46 43 a m" src="https://github.com/user-attachments/assets/5d311860-4bd7-4beb-ba28-a000c625e9a6" />
